@@ -1,0 +1,33 @@
+{ 
+  // darkhelluva
+  "darkhelluva": { 
+
+    "file": "dh.html" 
+  },
+  "dh": { 
+    "file": "dh.html" 
+  },
+  "darkhi": { 
+    "file": "dh.html" 
+  },
+  
+  // kel
+  "kel": { 
+    "file": "kel.png" 
+  },
+  "zdrada": { 
+    "file": "kel.png" 
+  },
+// alex strek
+  "alex strek": { 
+
+    "file": "strek.html" 
+  },
+
+  "strek": { 
+
+    "file": "strek.mp4" 
+  }
+}
+
+
