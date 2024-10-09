@@ -1,7 +1,5 @@
 { 
-  // darkhelluva
   "darkhelluva": { 
-
     "file": "dh.html" 
   },
   "dh": { 
@@ -11,21 +9,17 @@
     "file": "dh.html" 
   },
   
-  // kel
   "kel": { 
     "file": "kel.png" 
   },
   "zdrada": { 
     "file": "kel.png" 
   },
-// alex strek
+  
   "alex strek": { 
-
-    "file": "strek.html" 
+    "file": "strek.mp4" 
   },
-
   "strek": { 
-
     "file": "strek.mp4" 
   }
 }
